@@ -1,0 +1,1 @@
+This is just a small project for practicing HTML, CSS and git by building a small recipe website.
